@@ -7,7 +7,7 @@
 ## 🙋‍♂️ Profile 
 <div align="left">
 
-<p>Hi, my name is Victor Gabriel I'm passionate about technology, curiosity to understand how things work is my greatest quality. My goal is to become a professional with the ability to solve complex problems using knowledge and creativity. I believe that teamwork is the best method to achieve goals.</p>
+<p>My name is Victor Gabriel I'm passionate about technology, curiosity to understand how things work is my greatest quality. My goal is to become a professional with the ability to solve complex problems using knowledge and creativity. I believe that teamwork is the best method to achieve goals.</p>
 </div>
 
 

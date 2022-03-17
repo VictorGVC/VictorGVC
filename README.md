@@ -2,6 +2,7 @@
 ## 🙋‍♂️ Hello 
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" height=300px align="right" alt="Computador iuriCode">
+
 ```js
 const me = {
     name: 'Victor Gabriel',
@@ -19,6 +20,7 @@ const company = {
 
 company.hire(me)
 ```
+<br>
 
 ## 👨‍💻 Languages & Technologies 
 <div align="center"> 

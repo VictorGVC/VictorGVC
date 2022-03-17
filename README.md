@@ -1,17 +1,24 @@
-<h1 align="center">Hello and wellcome to my Github</h1>
 
-<div align="center">
-  <img  alt="Programming" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
-</div>
+## 🙋‍♂️ Hello 
 
-## 🙋‍♂️ Profile 
-<div align="left">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" height=300px align="right" alt="Computador iuriCode">
+```js
+const me = {
+    name: 'Victor Gabriel',
+    goal: 'Become a professional with the ability to solve complex problems',
+    gratestQuality: 'Curiosity to understand how things work',
+    studying: ['Node', 'React', 'Spring Boot']
+}
 
-<p>My name is Victor Gabriel I'm passionate about technology, curiosity to understand how things work is my greatest quality. My goal is to become a professional with the ability to solve complex problems using knowledge and creativity. I believe that teamwork is the best method to achieve goals.</p>
-</div>
+const company = {
+    hire: person => {
+        if(person.name === 'Victor Gabriel')
+            console.log('Success!😉')
+    }
+}
 
-
-</br>
+company.hire(me)
+```
 
 ## 👨‍💻 Languages & Technologies 
 <div align="center"> 
@@ -37,7 +44,7 @@
 </br>
 
 ## 📱 Contact me 
-<div align="center"> 
+<div style="margin-left: 26px;"> 
   <a href="https://www.linkedin.com/in/victorgabrielvcosta/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="mailto:victorjobs17@gmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 
@@ -49,5 +56,5 @@
   <a href="https://github.com/VictorGVC">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VictorGVC&show_icons=true&&theme=aura&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorGVC&layout=compact&langs_count=7&theme=aura"/>
-  <!--<img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=VictorGVC&theme=aura&range=last_year"/> -->
+  <img width="500px" src="https://github-readme-stats.vercel.app/api/wakatime?username=VictorGVC&theme=aura&range=last_year&layout=compact&langs_count=8"/>
 </div>

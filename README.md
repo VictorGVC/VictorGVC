@@ -1,7 +1,7 @@
 
 ## 🙋‍♂️ Hello 
 
-<img style="margin-top: 25px" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" height=250px align="right" alt="Computador iuriCode">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" height=280px align="right" alt="Computador iuriCode">
 
 ```js
 const me = {

@@ -1,12 +1,12 @@
 
 ## 🙋‍♂️ Hello 
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" height=300px align="right" alt="Computador iuriCode">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" height=250px align="right" alt="Computador iuriCode">
 
 ```js
 const me = {
     name: 'Victor Gabriel',
-    goal: 'Become a professional with the ability to solve complex problems',
+    goal: 'Become a professional that solve complex problems',
     gratestQuality: 'Curiosity to understand how things work',
     studying: ['Node', 'React', 'Spring Boot']
 }

@@ -8,11 +8,11 @@ const me = {
     name: 'Victor Costa',
     gratestQuality: 'Critical thinking and problem solving skills',
     Skills: ['Java', 'Spring Boot', 'SQL'],
-    achievements: ['Developed a solution for an insurance company to decrease
-        their time spent on a process by at least 2 hours per day.',
-            'Led a development team in creating and optimizing microservices
-        for enhanced performance, thereby bolstering the autonomy of
-        each individual service.']
+    achievements: ['Developed a solution for an insurance company to
+        decrease their time spent on a process by at least 2 hours per day.',
+            'Led a development team in creating and optimizing
+        microservices for enhanced performance, thereby
+        bolstering the autonomy of each individual service.']
 }
 
 const company = {

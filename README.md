@@ -8,9 +8,9 @@ const me = {
     name: 'Victor Costa',
     gratestQuality: 'Critical thinking and problem solving skills'
     skills: ['Java', 'Spring Boot', 'SQL'],
-    achievements: 'Led a development team in creating and optimizing
+    achievement: 'Led a development team in creating and optimizing
         microservices for enhanced performance, thereby
-        bolstering the autonomy of each individual service.'
+        bolstering the autonomy of each individual service'
 }
 
 const company = {

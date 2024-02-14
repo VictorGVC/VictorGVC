@@ -6,7 +6,7 @@
 ```js
 const me = {
     name: 'Victor Costa',
-    gratestQuality: 'Critical thinking and problem solving skills'
+    gratestQuality: 'Critical thinking and problem solving skills',
     skills: ['Java', 'Spring Boot', 'Pythion', 'Node', 'SQL'],
     achievement: 'Led a development team in creating and optimizing
         microservices for enhanced performance, thereby
